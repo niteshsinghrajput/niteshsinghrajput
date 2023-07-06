@@ -1,7 +1,9 @@
 
 # Nitesh Singh Rajput
   Location: Bengaluru, India <br/>
-  LinkedIn: [linkedin.com/in/nitesh-singh-rajput-33bbab36](https://www.linkedin.com/in/nitesh-singh-rajput-33bbab36/)
+  LinkedIn: [linkedin.com/in/nitesh-singh-rajput-33bbab36](https://www.linkedin.com/in/nitesh-singh-rajput-33bbab36/)<br/>
+  Email: niteshsinghrajput.mca@gmail.com
+  
 
 **Fullstack Senior Software Engineer | 12 Years of Experience**
 <p>Passionate and results-driven Fullstack Senior Software Engineer with 12 years of experience in software product development. Committed to 
