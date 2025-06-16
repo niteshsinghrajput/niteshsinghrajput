@@ -5,7 +5,7 @@
   Email: niteshsinghrajput.mca@gmail.com
   
 
-**Fullstack Senior Software Engineer | 13+ Years of Experience**
+**Fullstack Software Engineer | 13+ Years of Experience**
 <p>Passionate and results-driven Fullstack Senior Software Engineer with 13+ years of experience in software product development. Committed to 
 delivering high-quality solutions that meet business objectives and exceed customer expectations. Experienced in designing, developing, and 
 maintaining complex software systems in both front-end and back-end technologies. Strong expertise in Java, JavaScript, Spring Boot, React, 
@@ -29,7 +29,11 @@ SQL, NoSQL databases, and agile methodologies.</p>
 - Received recognition for exceptional problem-solving skills and ability to troubleshoot and resolve complex technical issues.
 
 ### Work Experience
-**Senior Software Engineer | Target Corporation India Pvt Ltd, Bengaluru, Karnataka, India | 2018 - Present**
+**Lead Engineer | Target Corporation India Pvt Ltd, Bengaluru, Karnataka, India | 2025 - Present**
+
+As a Lead Engineer, I drive the architecture and development of scalable, event-driven microservices for wms vendor integration in supplychian using Java, Spring Boot. I design and implement key platform components like Inbound/Outbound Transformers, Facade Services, and Vendor Adapters to handle XML/SOAP/REST interactions, while building resilient APIs and Kafka pipelines with DLQ handling. I ensure robust data persistence and caching using PostgreSQL, MongoDB, and Redis, and enforce best practices in schema validation, error handling, and observability through tools like Micrometer, Grafana. I lead design reviews, mentor engineers, and collaborate with cross-functional teams to ensure secure, testable, and scalable systems across multiple distribution centers.
+
+**Senior Software Engineer | Target Corporation India Pvt Ltd, Bengaluru, Karnataka, India | 2018 - 2024**
 
 Developed and maintained scalable web applications using Java, Spring Boot, and React JS.
 Collaborated with product managers, designers, and Business Services teams to ensure successful project delivery.
